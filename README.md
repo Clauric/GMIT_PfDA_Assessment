@@ -8,7 +8,6 @@ Jupyter Notebook for 1st assessment in Programming for Data Analysis
   * [Setup](#Setup)
   * [Research](#Research)
   * [Questions Asked](#Questions-Asked)
-  * [Sample of code and explanation](#Sample-of-code-and-explanation)
   * [Status](#Status)
   * [Other Information](#Other-Information)
   
