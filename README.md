@@ -25,7 +25,7 @@ These are libraries that are not normally part of the standard installation with
 
 ## Setup
 In order to run the scripts in this repository, it is necessary to have a complier capable of compiling Python 3.7.2. In addition, it will be necessary to install the external libraries (if you have not done so already), if you want to run the scripts on your own machine.
-All the codes used in the Jupyter Notebook have been tested using [Anaconda](https://www.anaconda.com/distribution/), and running through [Cmder.](https://cmder.net/).
+All the codes used in the Jupyter Notebook have been tested using [Anaconda](https://www.anaconda.com/distribution/), and running through [Cmder](https://cmder.net/).
 
 ## Research
 Research for the assignment was conducted through extensive internet research. A bibliography is included in Jupyter Notebook, at the end of the document. Where examples are used, they are either standard statistical problems (dice throwing), or are based on examples provided in the research.
