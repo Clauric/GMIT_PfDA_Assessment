@@ -1,4 +1,4 @@
-# GMIT_PfDA_Assessment
+# Numpy Assessment
 
 Jupyter Notebook for 1st assessment in Programming for Data Analysis
 
